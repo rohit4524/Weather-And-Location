@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Source Sans Pro", sans-serif;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(31, 2, 255, 1) 0%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

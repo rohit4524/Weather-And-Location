@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.mainContainer {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.map {
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.climate {
+}
